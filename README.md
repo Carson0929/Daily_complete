@@ -9,7 +9,7 @@ Comment Header
 
 Code comments 
 
-Correct results 1.25/2 RLC error (use Farads &amp; Henries)
+Correct results 
 
 my example H = 0.47, F = 0.00001, R = 2000, gave these answers:
 
