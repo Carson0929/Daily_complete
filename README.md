@@ -1,13 +1,13 @@
 # Daily_complete
 # Carson Vanderheyden
 # Commit 1st 
-Use of function , some 1/2
+Use of function 
 
-Correct Gui 1/1
+Correct Gui
 
-Comment Header 2/2
+Comment Header 
 
-Code comments 1/1
+Code comments 
 
 Correct results 1.25/2 RLC error (use Farads &amp; Henries)
 
